@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Trace.cpp">
+      <Filter>_Trace</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitTest.cpp">
+      <Filter>_UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="privateInheritanceTests.cpp">
+      <Filter>_UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="publicInheritanceTests.cpp">
+      <Filter>_UnitTest</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Trace.h">
+      <Filter>_Trace</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowsWrapper.h">
+      <Filter>_Trace</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitTest.h">
+      <Filter>_UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="bufferManager.h">
+      <Filter>_UnitTest</Filter>
+    </ClInclude>
+    <ClInclude Include="A.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="E.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="M.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="MiddlewareNative.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Wrapper.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="MemTracker.h">
+      <Filter>_Trace</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{619ce6e4-f55b-443a-a6be-ee3131e6de34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Trace">
+      <UniqueIdentifier>{082919e9-022d-433b-961e-5be09ab07f19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_UnitTest">
+      <UniqueIdentifier>{80169a87-407b-45c7-8618-c2b70bb6026a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd">
+      <Filter>Source</Filter>
+    </None>
+  </ItemGroup>
+</Project>

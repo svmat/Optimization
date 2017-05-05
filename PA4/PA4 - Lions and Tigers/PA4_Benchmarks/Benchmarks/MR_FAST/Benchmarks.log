@@ -1,0 +1,18 @@
+﻿  bloated.cpp
+  BloatedTests.cpp
+  main.cpp
+  Math_StressTest.cpp
+  MemoryTests.cpp
+  Node.cpp
+  output.cpp
+  Timer.cpp
+  Trace.cpp
+  UnitTest.cpp
+  Vect2D.cpp
+  Generating code
+  21 of 51 functions (41.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Benchmarks.vcxproj -> C:\Users\smatchenia\Google Drive\CSC461\PA4\PA4 - Lions and Tigers\PA4_Benchmarks\MR_FAST\Benchmarks.exe
+  Benchmarks.vcxproj -> C:\Users\smatchenia\Google Drive\CSC461\PA4\PA4 - Lions and Tigers\PA4_Benchmarks\MR_FAST\Benchmarks.pdb (Full PDB)

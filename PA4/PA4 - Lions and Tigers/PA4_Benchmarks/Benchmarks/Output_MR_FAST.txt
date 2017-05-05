@@ -1,0 +1,18 @@
+Program Assignment: 4 
+Name: Sviatlana Matchenia
+
+-------------------------------------------------
+
+ -----------Memory System------------
+
+Memory Time: 68.652077 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 15.633070 s
+        Find Key: 0.016254 ms
+
+ -----------Math Test------------
+
+Math test: 31.350101 ms

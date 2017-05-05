@@ -1,0 +1,99 @@
+Program Assignment: 4 
+Name: Sviatlana Matchenia
+
+Before modifications:
+
+DEBUG
+-----------Memory System------------
+
+Memory Time: 349.132263 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 31.240347 s
+        Find Key: 43.732483 ms
+
+ -----------Math Test------------
+
+Math test: 4051.072510 ms
+
+RELEASE
+-------------------------------------------------
+
+ -----------Memory System------------
+
+Memory Time: 68.598610 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 16.389425 s
+        Find Key: 40.201992 ms
+
+ -----------Math Test------------
+
+Math test: 577.002075 ms
+
+MS_FAST
+
+ -----------Memory System------------
+
+Memory Time: 60.080780 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 16.397774 s
+        Find Key: 38.453003 ms
+
+ -----------Math Test------------
+
+Math test: 545.932068 ms
+
+SET:
+c/c++ /ox (full optimization)
+-----------Memory System------------
+
+Memory Time: 59.421219 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 16.304705 s
+        Find Key: 39.753727 ms
+
+ -----------Math Test------------
+
+Math test: 539.771912 ms
+
+omit frame pointers - YES was worse, NO - better
+
+-----------Memory System------------
+
+Memory Time: 59.191528 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 16.174667 s
+        Find Key: 39.364067 ms
+
+ -----------Math Test------------
+
+Math test: 544.275879 ms
+
+Imline function expansion: any suitable (mostly the same), disabled
+ -----------Memory System------------
+
+Memory Time: 60.978588 ms
+
+
+ --------- Bloated Nodes ---------------
+
+Creation of List: 15.957231 s
+        Find Key: 0.017109 ms
+
+ -----------Math Test------------
+
+Math test: 31.449337 ms

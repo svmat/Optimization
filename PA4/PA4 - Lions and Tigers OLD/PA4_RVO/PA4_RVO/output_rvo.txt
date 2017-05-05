@@ -1,0 +1,16 @@
+Program Assignment: 4 
+Name: Sviatlana Matchenia
+
+Debug Mode
+
+Run NO RVO: 4754.099121 ms
+Run WITH RVO: 3294.676514 ms
+
+	1.44 faster
+
+Release Mode
+
+Run NO RVO: 3229.043457 ms
+Run WITH RVO: 2944.264404 ms
+
+	1.1 faster
